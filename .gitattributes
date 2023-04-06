@@ -3,3 +3,4 @@ model_2.pt filter=lfs diff=lfs merge=lfs -text
 model_6.pt filter=lfs diff=lfs merge=lfs -text
 model_4.pt filter=lfs diff=lfs merge=lfs -text
 model_1.pt filter=lfs diff=lfs merge=lfs -text
+model_11.pt filter=lfs diff=lfs merge=lfs -text
